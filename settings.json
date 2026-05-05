@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFK BOT AuP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "AuraPrideSMP.aternos.me",
+    "ip": "AuraPrideSMP.aternos.me:49265",
     "port": 49265,
     "version": "",
     "try-creative": false
