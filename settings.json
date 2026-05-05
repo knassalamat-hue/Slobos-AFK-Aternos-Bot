@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "AuraPrideSMP.aternos.me",
+    "port": 49265,
     "version": "",
     "try-creative": false
   },
